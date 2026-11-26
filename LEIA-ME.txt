@@ -1,0 +1,19 @@
+CAFÉ MOBILE - PROJETO COMPLETO (DIAS 1 A 5)
+
+Este arquivo reúne o projeto em uma única pasta.
+
+Estrutura:
+- index.html: tela principal do aplicativo.
+- css/style.css: estilos e cores.
+- js/dados.js: produtos do cardápio.
+- js/app.js: abas, pedidos, armazenamento local e vibração.
+- js/camera.js: câmera e galeria de fotos.
+- js/pwa.js: instalação, funcionamento offline e compartilhamento.
+- manifest.json: configurações para instalação como aplicativo.
+- sw.js: Service Worker e cache para uso offline.
+- icons/: ícones do aplicativo.
+
+Para testar:
+Abra o projeto por um servidor local ou publique em HTTPS.
+Os recursos de câmera, instalação e Service Worker podem não funcionar
+quando o arquivo index.html é aberto diretamente pelo gerenciador de arquivos.
